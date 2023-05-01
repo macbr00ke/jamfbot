@@ -2,7 +2,7 @@
 
 ** This is an UPDATED version of zacharysfisher's original guide found here: https://github.com/zacharysfisher/jamfbot. It helped me immensely with setting up a Slack jamfbot, this guide will just include some updates/clarification from my experience of setting this up in 2023. It took lots of trial and error and some help from ChatGPT with some error handling, as I'm not that familiar with Python. Hopefully this will help someone else like me new to the world of slackbots/API integration and save some time and frustration :)
 
-I comment out any changes/additions made to taniacomputer's original code. Thanks again to taniacomputer for coming up with this, it's a lifesaver!
+I comment out any changes/additions made to [taniacomputer's original code](https://www.taniacomputer.com/?p=202). Thanks again to taniacomputer for coming up with this, it's a lifesaver!
 
 ------------
 
